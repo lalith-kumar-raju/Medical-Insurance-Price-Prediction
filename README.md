@@ -60,7 +60,7 @@ The prediction model is an XGBoost Regressor.
 
 The entire process of building the predictive model is detailed in the project's Jupyter Notebooks and follows these steps:
 
-![Model Training Workflow](https://drive.google.com/uc?id=1xtPPDI__XNsiX0zbxq4u8C8DrcvVPOwB)
+![Model Training Workflow](https://drive.google.com/uc?id=16PUoby8FpxRIRCVY8xF26txYvJs2tIJI)
 
 1.  **Data Collection:** The process begins by loading the medical insurance dataset.
 2.  **Exploratory Data Analysis (EDA):** The dataset is thoroughly analyzed to understand feature distributions, correlations, and initial patterns. This is covered in `Visualisations (EDA).ipynb`.
