@@ -2,18 +2,18 @@
 
 ![Project Demo](https://drive.google.com/uc?id=1m3Mj4DXNAgCuYWRSgxzcbPF0o9rheMaC)
 
-## Introduction
+## 📖 Introduction
 
 This project is a web application that predicts medical insurance costs for individuals based on their personal attributes. It features an interactive, user-friendly interface where users can input their information—such as age, sex, BMI, and smoking habits—to receive an instant price estimate. The project combines a robust machine learning model with a responsive web front-end to provide a seamless user experience.
 
-## Project Goals
+## 🎯 Project Goals
 
 *   **Predictive Accuracy:** To build and deploy a reliable machine learning model that accurately predicts medical insurance charges.
 *   **User Experience:** To create an intuitive and responsive web interface that makes it easy for users to get predictions.
 *   **Educational Tool:** To serve as a demonstration of a full-stack machine learning application, from data analysis and model training to deployment.
 *   **Transparency:** To provide users with information about the dataset and the factors that influence insurance costs.
 
-## Technologies Used
+## 💻 Technologies Used
 
 This project is built with a combination of data science and web development technologies:
 
@@ -34,7 +34,7 @@ This project is built with a combination of data science and web development tec
 | **Frontend**      | HTML, CSS, JavaScript|            |
 
 
-## Dataset
+## 📊 Dataset
 
 The model is trained on the **"Medical Cost Personal Datasets"** from Kaggle. This dataset contains 1,338 observations with the following attributes:
 
@@ -48,13 +48,13 @@ The model is trained on the **"Medical Cost Personal Datasets"** from Kaggle. Th
 
 The complete data analysis and visualization can be found in the `Visualisations (EDA).ipynb` notebook.
 
-## Model
+## 🤖 Model
 
 The prediction model is an XGBoost Regressor. 
 - The target variable (`charges`) was log-transformed (`log(x+1)`) to handle its skewness, a common practice for price prediction. 
 - The categorical features (`sex`, `smoker`, `region`) were converted into a numerical format for the model.
 
-## How It Works
+## ⚙️ How It Works
 
 ### Model Training Workflow
 
@@ -76,11 +76,11 @@ The entire process of building the predictive model is detailed in the project's
 9.  **Model Interpretability:** SHAP (SHapley Additive exPlanations) analysis is used to understand the model's predictions and explain the impact of each feature on the final insurance price prediction.
 
 
-## Why It Matters
+## ✨ Why It Matters
 
 Understanding potential healthcare costs is crucial for financial planning. This tool provides a quick and accessible way for individuals to get a data-driven estimate of their medical insurance expenses. For developers and data scientists, this project serves as a practical, end-to-end example of how to build and deploy a machine learning model as a web service.
 
-## How to Run This Project Locally
+## 🛠️ How to Run This Project Locally
 
 1.  **Clone the repository:**
     ```bash
