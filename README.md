@@ -62,20 +62,6 @@ The entire process of building the predictive model is detailed in the project's
 
 ![Model Training Workflow](Workflow.png)
 
-1.  **Data Collection:** The process begins by loading the medical insurance dataset.
-2.  **Exploratory Data Analysis (EDA):** The dataset is thoroughly analyzed to understand feature distributions, correlations, and initial patterns. This is covered in `Visualisations (EDA).ipynb`.
-3.  **Data Preprocessing:**
-    *   **Handling Missing Values & Outliers:** The data is cleaned by addressing any missing values and handling outliers.
-    *   **Feature Transformation:** The target variable (`charges`) is log-transformed to handle its skewness.
-    *   **Encoding:** Categorical features like `sex`, `smoker`, and `region` are converted into numerical formats.
-4.  **Data Splitting:** The dataset is split into an 80% training set and a 20% testing set.
-5.  **Model Selection:** Ten different regression models were evaluated, including `Random Forest`, `XGBoost`, `LightGBM`, and `Linear Regression`.
-6.  **Model Training:** The models are trained on the preprocessed data. Hyperparameter tuning and K-Fold cross-validation are used to optimize performance.
-7.  **Model Evaluation:** Models are evaluated using a comprehensive set of metrics: MSE, RMSE, MAE, MAPE, R², Adjusted R², and the best cross-validation score.
-8.  **Best Model Selection:** The model with the best performance (XGBoost) is selected for deployment.
-9.  **Model Interpretability:** SHAP (SHapley Additive exPlanations) analysis is used to understand the model's predictions and explain the impact of each feature on the final insurance price prediction.
-
-
 ## ✨ Why It Matters
 
 Understanding potential healthcare costs is crucial for financial planning. This tool provides a quick and accessible way for individuals to get a data-driven estimate of their medical insurance expenses. For developers and data scientists, this project serves as a practical, end-to-end example of how to build and deploy a machine learning model as a web service.
