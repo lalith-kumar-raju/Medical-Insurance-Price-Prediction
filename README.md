@@ -6,6 +6,12 @@
 
 This project is a web application that predicts medical insurance costs for individuals based on their personal attributes. It features an interactive, user-friendly interface where users can input their information—such as age, sex, BMI, and smoking habits—to receive an instant price estimate. The project combines a robust machine learning model with a responsive web front-end to provide a seamless user experience.
 
+---
+
+## 🌐 Live Demo
+🚀 
+**[Launch!](https://medical-insurance-cost-prediction-u6rt.onrender.com/)** 
+
 ## 🎯 Project Goals
 
 *   **Predictive Accuracy:** To build and deploy a reliable machine learning model that accurately predicts medical insurance charges.
