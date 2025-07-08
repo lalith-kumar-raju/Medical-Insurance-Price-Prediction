@@ -72,12 +72,6 @@ The entire process of building the predictive model is detailed in the project's
 
 Understanding potential healthcare costs is crucial for financial planning. This tool provides a quick and accessible way for individuals to get a data-driven estimate of their medical insurance expenses. For developers and data scientists, this project serves as a practical, end-to-end example of how to build and deploy a machine learning model as a web service.
 
-## 📄 Published Paper
-
-**Predicting Medical Insurance Costs: A Machine Learning Approach for Smarter Risk Assessment**  
-_Published at 2025 International Conference on Computational Robotics, Testing and Engineering Evaluation (ICCRTEE)_  
-[DOI: 10.1109/ICCRTEE64519.2025.11052963](https://doi.org/10.1109/ICCRTEE64519.2025.11052963)
-
 ## 🛠️ How to Run This Project Locally
 
 1.  **Clone the repository:**
@@ -107,16 +101,15 @@ _Published at 2025 International Conference on Computational Robotics, Testing a
 
 5.  Open your web browser and go to `http://127.0.0.1:5000/` to use the application.
 
-## ✍️ Authors
+## ✍️ Author
 
-Made with ❤️ by:
+Made with ❤️ by **Lalith kumar raju Somalaraju**.
 
-- **Lalith kumar raju Somalaraju**  
-  [GitHub](https://github.com/lalith-kumar-raju) | [LinkedIn](https://www.linkedin.com/in/lalith-kumar-raju-somalaraju/) | [Email](mailto:ssivaprasadraju1978@gmail.com)
-- **Jane Doe**  
-  [GitHub](https://github.com/EDAPALAPATIVENKATABALAJYOTHISWAROOP) | [LinkedIn](https://www.linkedin.com/in/edapalapati-venkata-bala-jyothi-swaroop/) | [Email](mailto:edapalapatiswaroop@gmail.com)
-- **John Smith**  
-  [GitHub](https://github.com/Mahesh15206) | [LinkedIn](https://www.linkedin.com/in/venkata-sai-mahesh-bodagala/) | [Email](mailto:bvsmahesh2006@gmail.com)
+Connect with me:
 
+*   [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/lalith-kumar-raju)
+*   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lalith-kumar-raju-somalaraju/)
+*   [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/_lalith_kumar_raju_/)
+*   [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:ssivaprasadraju1978@gmail.com)
 
 --- 
