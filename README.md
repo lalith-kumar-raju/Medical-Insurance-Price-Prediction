@@ -112,11 +112,11 @@ _Published at 2025 International Conference on Computational Robotics, Testing a
 Made with ❤️ by:
 
 - **Lalith kumar raju Somalaraju**  
-  [GitHub](https://github.com/lalith-kumar-raju) | [LinkedIn](https://www.linkedin.com/in/lalith-kumar-raju-somalaraju/) | [Email](mailto:ssivaprasadraju1978@gmail.com)
-- **Jane Doe**  
-  [GitHub](https://github.com/EDAPALAPATIVENKATABALAJYOTHISWAROOP) | [LinkedIn](https://www.linkedin.com/in/edapalapati-venkata-bala-jyothi-swaroop/) | [Email](mailto:edapalapatiswaroop@gmail.com)
-- **John Smith**  
-  [GitHub](https://github.com/Mahesh15206) | [LinkedIn](https://www.linkedin.com/in/venkata-sai-mahesh-bodagala/) | [Email](mailto:bvsmahesh2006@gmail.com)
+  [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/lalith-kumar-raju) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lalith-kumar-raju-somalaraju/) [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:ssivaprasadraju1978@gmail.com)
+- **Edapalapati Venkata Bala Jyothi Swaroop**  
+  [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/EDAPALAPATIVENKATABALAJYOTHISWAROOP) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/edapalapati-venkata-bala-jyothi-swaroop/) [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:edapalapatiswaroop@gmail.com)
+- **Venkata Sai Mahesh Bodagala**  
+  [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Mahesh15206) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/venkata-sai-mahesh-bodagala/) [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:bvsmahesh2006@gmail.com)
 
 
 --- 
